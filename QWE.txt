@@ -1,0 +1,9 @@
+git config --global user.name "derekwithlow38"
+
+
+
+git config --global user.email "derekwithlow38@gmail.com"
+
+
+
+git clone 复制你刚才的clone链接
